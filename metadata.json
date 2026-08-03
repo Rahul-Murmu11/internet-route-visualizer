@@ -1,0 +1,6 @@
+{
+  "name": "Internet Route Visualizer",
+  "description": "Interactive cybersecurity & network routing visualizer with cyberpunk glassmorphism UI, real-time hop packet animation, latency telemetry, and interactive node topology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
